@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hqg/UMhSgFz0qKvU+IiWvV0OcbpW/A02OWp1tsdWypIa11YVjh8Z40XOuSlzj+/BxJaqIsKuWCAr28mmSA1vFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZaidJ\\Desktop\\C#Projects\\QRCode\\QRCode\\QRCode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZaidJ\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\ZaidJ\\.nuget\\packages\\spire.barcode\\7.2.0\\spire.barcode.7.2.0.nupkg.sha512",
+    "C:\\Users\\ZaidJ\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\ZaidJ\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ZaidJ\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
